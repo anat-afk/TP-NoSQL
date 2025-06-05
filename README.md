@@ -67,10 +67,3 @@ Affichage du nombre total de ventes et visualisation rapide des données brutes.
 - Filtres interactifs par marque
 
 ---
-
-## Lancer le projet
-
-1. Cloner le repo :
-```bash
-git clone https://github.com/ton-pseudo/catalogue-sneakers.git
-cd catalogue-sneakers
