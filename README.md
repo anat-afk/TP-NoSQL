@@ -1,3 +1,8 @@
+
+## Lien du rapport.
+
+https://www.notion.so/Projet-de-groupe-2-2087bbdc83e480c9962dc508ba8344dd?source=copy_link
+
 # 🧠 TP-NoSQL – Catalogue interactif de Sneakers
 
 > Projet universitaire réalisé en binôme : exploration, analyse et visualisation de données de ventes de sneakers issues de la plateforme StockX.
