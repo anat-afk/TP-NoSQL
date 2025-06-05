@@ -28,10 +28,13 @@ Il consiste à concevoir une interface interactive permettant d’explorer un ca
 - **Streamlit** : développement d’une interface web interactive pour la visualisation.
 
 ---
-TP-NoSQL/
+**TP-NoSQL/
 ├── api.py # API Flask pour interagir avec MongoDB
+
 ├── app.py # Script principal pour le traitement des données
+
 ├── stockx.json # Jeu de données brut issu de StockX
+
 └── README.md # Documentation du projet
 ## 📁 Structure du projet
 
